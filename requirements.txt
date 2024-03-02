@@ -1,0 +1,6 @@
+TTS
+g4f
+assemblyai
+undetected_chromedriver
+platformdirs
+Brotli
