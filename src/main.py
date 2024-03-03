@@ -1,3 +1,8 @@
+import sys
+
+sys.dont_write_bytecode = True
+
+
 from YoutubeShortAI import YoutubeShortAI
 from constants import *
 
@@ -9,7 +14,7 @@ g4f.debug.logging = DEBUG_ENABLED
 
 def main():
     ytsai = YoutubeShortAI()
-    ytsai.generateVideo("fun fact")
+    ytsai.generate_video()
 
 
 if __name__ == "__main__":

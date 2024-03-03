@@ -4,3 +4,4 @@ assemblyai
 undetected_chromedriver
 platformdirs
 Brotli
+moviepy
